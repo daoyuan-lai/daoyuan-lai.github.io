@@ -305,7 +305,7 @@ FREEtree: Fuzzy Random Effect Estimation Tree for Longitudinal Data with Correla
 </a>
 <p>Area: Statistical Machine Learning</p>
 <ul>
-	<li>Designing FREEtree which selects features more unbiasedly by first screening within each cluster of features and then select them among clusters. Finally, it uses selected features to fit a mixed-effect model tree for prediction.</li>
+	<li>Designing FREEtree which selects features more unbiasedly by first screening within each cluster of features and then select them among clusters using Linear Mixed-Effect Model Tree (LMM tree). If no natural choices for regressors are available, LMM trees regress on dominant principal components of each correlated cluster. Finally, it uses selected features as both splitters and regressors to fit an LMM tree for prediction.</li>
 	<li>Simulation of FREEtree on datasets that includes random effect and treatment-time interaction. FREEtree outperforms other tree-based methods for longitudinal setting such as RE-EM tree and Glmertree in terms of prediction, and successfully recovers the underlying time-treatment structure and true important features.  </li>
 	<li>Adapting Weighted Correlation Network Analysis (WGCNA) to longitudinal dataset by using distance measure of time series such as dynamic time warping(DTW).</li>
 </ul>
