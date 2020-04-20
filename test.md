@@ -197,7 +197,9 @@
 
 * 看什么排名
 
-	选项目最靠谱的还是按照感兴趣的导师来选 (PhD最重要的还是导师)，同时利用好手上的connection. 对于申请美国PhD，可以关注US NEWS的专业排名，<a href="https://www.usnews.com/education/best-global-universities/rankings" , target="_blank"> US NEWS global ranking</a>以及<a href="http://www.shanghairanking.com/ARWU2018.html" , target="_blank"> ARWU</a>. 有些领域会有arguably更加合理的排名（比如CS里有<a href="csrankings.org", target="_blank"> CSRanking</a>, 金数金工有quantnet). 我注意到许多人喜欢用<a href="https://www.usnews.com/best-colleges/rankings/national-universities"> US NEWS National Rankings 综合排名</a>(这也是搜索US NEWS第一个出现的)，粗略地说，这个排名是本科排名，对于PhD参考价值不大，而它的global ranking则是学术（研究生院）排名。不过<a href="https://zhuanlan.zhihu.com/p/34296778" , target="_blank">没有一个排名是完美的</a>。
+	选项目最靠谱的还是按照感兴趣的导师来选 (PhD最重要的还是导师)，同时利用好手上的connection. 对于申请美国PhD，可以关注US NEWS的专业排名，<a href="https://www.usnews.com/education/best-global-universities/rankings" target="_blank">US NEWS global ranking</a> 以及<a href="http://www.shanghairanking.com/ARWU2018.html"  target="_blank">ARWU</a>. 有些领域会有arguably更加合理的排名（比如CS里有<a href="csrankings.org" target="_blank"> CSRanking</a>, 金数金工有quantnet). 我注意到许多人喜欢用<a href="https://www.usnews.com/best-colleges/rankings/national-universities"> US NEWS National Rankings 综合排名</a>(这也是搜索US NEWS第一个出现的)，粗略地说，这个排名是本科排名，对于PhD参考价值不大，而它的global ranking则是学术（研究生院）排名。不过<a href="https://zhuanlan.zhihu.com/p/34296778"  target="_blank">没有一个排名是完美的</a>。 
+ 
+
 
 ### 数学、统计系有哪些申请的方向
 
@@ -210,7 +212,7 @@
 
 * Stat and biostat： 统计和生统特别喜欢数学好的学生，数学系的同学完全可以申请（比如今年南开数学top学生就去了UCB的Biostat）。生物统计往往是Public Health部门下的一个系，而统计往往单独成系。 统计的申请难度比生物统计要高，但是两者在课程内容上相差并不算大，只是在研究上生物统计偏向于解决生物医学领域的问题。
 
-* Operations research/ management: 运筹粗略的来说包括优化和随机两个方向，然后根据它们的应用可以细分（比如Financial Engineering, logistics, machine learning等等）。 这些方向在工学院和商学院都有做。 大家可以参考 <a href="http://bbs.gter.net/thread-1727042-1-1.html", target="_blank"> OR的入门经验帖</a><a href="https://zhuanlan.zhihu.com/p/39733059", target="_blank">, OR的一篇申请总结</a>与<a href="https://www.1point3acres.com/bbs/thread-123454-1-1.html", target="_blank"> 另一篇申请总结</a>。 这个方向（特别是商学院毕业的PhD）找教职的难度相对较小，做的方向相当广泛（你完全可以做成CS或者应用数学），希望呆在学术界的同学可以好好了解一下。
+* Operations research/ management: 运筹粗略的来说包括优化和随机两个方向，然后根据它们的应用可以细分（比如Financial Engineering, logistics, machine learning等等）。 这些方向在工学院和商学院都有做。 大家可以参考 <a href="http://bbs.gter.net/thread-1727042-1-1.html" target="_blank"> OR的入门经验帖</a><a href="https://zhuanlan.zhihu.com/p/39733059" target="_blank">, OR的一篇申请总结</a>与<a href="https://www.1point3acres.com/bbs/thread-123454-1-1.html" target="_blank"> 另一篇申请总结</a>。 这个方向（特别是商学院毕业的PhD）找教职的难度相对较小，做的方向相当广泛（你完全可以做成CS或者应用数学），希望呆在学术界的同学可以好好了解一下。
 
 * Computer Science: 数学统计系的同学完全可以申请CS（比如今年北大,南开数学系都有大神拿到四大; 笔者的PhD方向也在CS系），很大一部分是去做machine learning. 其他可能的方向还有computational biology, graphics, theoretical computer science (e.g. complexity). 
 
@@ -234,13 +236,13 @@
 
 UW的Amath是我一度很想去的项目，U Washington (Seattle)的应数单独成系(注意我申请的不是Math, UW的Math申请难度会小不少），应数专排前十水平，我认识有三个被OR、统计top5项目录取的学生被UW拒了,陆本的我知道有个北大女生拿了（但她也录取了NYU Courant）,可见申请难度还是挺高的。UW的这个系有各种交叉方向（金融数学，comp biology, 大气，机器学习，海洋，优化，随机分析以及PDE等），而且也有一些外系的老师（比如特强的Biostat、CSE）可以选择。我觉得我能够被录取的重要原因是因为我的背景（Machine Learning以及计算神经科学）非常fit其中的两个组。 不过我后来仔细的读了一下我POI最近的文章，个人觉得有点浅显了，再加上他的学生有点太多了，最后放弃了这个项目。 不过挺舍不得西雅图的，科技公司林立，还可以看见雪山。
 
-Maryland的AMSC(Applied math, Statistics and Scientific Computing)是我选择的项目。该项目学术声誉很不错，专排跟UW差不多，但是它最大的优势，就是全校（几乎）任选导师！你没看错，你可以选数学系的老师，但是你也可以学商学院的、物理系的（马大物理很强）、化学系的老师，这是一个典型的交叉学科项目（但它的分类就是应用数学）。我选择Scientific Computing方向，在申请的时候填的POI全部来自CS，过去所跟的导师也是在CS下面做AI。这也是我选择这个项目的原因 —— Maryland的CS实力强劲（CS Ranking第十，AI排第六；我如果当年选择计算机系现在还不一定申请的上吧），AI是我最想从事的大方向，而该项目又给了我足够的灵活度。 该项目特别看重[diversity](#Diversity)，鼓励学妹申请。 另外有一篇AMSC前辈写的<a href="https://www.sohu.com/a/169469968_690527", target="_blank">申请攻略</a>挺不错。
+Maryland的AMSC(Applied math, Statistics and Scientific Computing)是我选择的项目。该项目学术声誉很不错，专排跟UW差不多，但是它最大的优势，就是全校（几乎）任选导师！你没看错，你可以选数学系的老师，但是你也可以学商学院的、物理系的（马大物理很强）、化学系的老师，这是一个典型的交叉学科项目（但它的分类就是应用数学）。我选择Scientific Computing方向，在申请的时候填的POI全部来自CS，过去所跟的导师也是在CS下面做AI。这也是我选择这个项目的原因 —— Maryland的CS实力强劲（CS Ranking第十，AI排第六；我如果当年选择计算机系现在还不一定申请的上吧），AI是我最想从事的大方向，而该项目又给了我足够的灵活度。 该项目特别看重[diversity](#Diversity)，鼓励学妹申请。 另外有一篇AMSC前辈写的<a href="https://www.sohu.com/a/169469968_690527" target="_blank">申请攻略</a>挺不错。
 
 UCSD的math(CSEM concentration)算是一个top20的数学/应数项目，去年14级的吴学长就被该项目（math）录取，正在读博，也是之前数学系的最好水平。 我不选这个项目的原因很有意思，我感兴趣的老师(machine learning方向)一个是从UW的amath毕业不久，另一个是从Maryland AMSC毕业不久，所以我就没考虑UCSD了。不过圣地亚哥是美国最舒服的城市之一，阳光沙滩美滋滋，UCSD的学术声誉也是蛮不错的，最重要的是，UCSD连续两年给了咱们数学系offer，大伙们一定要申请呀。
 
 UC Davis的math是一个被低估的项目，如果你对机器学习理论、优化感兴趣，UCD有很厉害的组（Xiaodong Li, Shiqian Ma, Thomas Strohmer等）；另外它的amath也可以选择一些外系的老师（经常有学生去统计、CS、物理找导师）。 UCI的math项目我其实不太了解，不过我套磁过Roman Vershynin（没错就是那本“High dimensional probability"的作者!他前几年从Umich跳槽到UCI了）得到了热情的回复，这位老师的学生非常厉害（比如UCLA的Needell）。我亲自去过Irvine，给人度假村的感觉，非常舒服。 UCI的math今年给了我们数学系两个PhD offer！大伙们UCI也一定要申请嘛。
 
-我申请的大部分都是带有交叉学科色彩的应数项目（少数是math），我在选校的时候参考了<a href="https://www.zhihu.com/question/266851624/answer/315023023", target="_blank">这篇文章</a>.
+我申请的大部分都是带有交叉学科色彩的应数项目（少数是math），我在选校的时候参考了<a href="https://www.zhihu.com/question/266851624/answer/315023023" target="_blank">这篇文章</a>.
 
 IEOR本来是我特别想从事的方向（其实感兴趣的也是OR的人做的machine learning），但可惜三个项目全被拒了。这个方向的介绍以及申请我在上一小节已经给出了reference,我被全拒的原因在最后一章会讲。
 
@@ -328,17 +330,17 @@ IEOR本来是我特别想从事的方向（其实感兴趣的也是OR的人做�
 
 1. 学会科学上网。使用谷歌。在学习，科研的时候，学会在谷歌中用英文关键词搜索答案。 这个习惯不仅能提高英文水平，更重要的是在学术方面，英文的帖子、论文真的比中文的质量高太多了（而且很多时候百度根本查不到有用的信息）。比如你可以在谷歌上查找你感兴趣老师手下学生的名字，看他们出路如何（个人、google scholar与领英主页）,你可以查你怎么想也想不出来的习题，你怎么也弄不懂的Bug（stackoverflow等网站很有用），你可以使用reddit, quora, gradcafe查找留学的建议（而不是知乎）。有一个小技巧，如果你想专门在某个网站里面查找某个关键词，比如想在一亩三分地论坛里面查找MIT CS, 你可以在谷歌中输入： MIT CS site:w<span>ww.</span>1point3acres.com
 
-2. 使用Youtube. 我在大学期间真正感受到自己英语水平的提升，是大二暑假开始使用Youtube开始的（没错我在校内英语课上的收获很小，你是不是也一样:smirk:）。实际上使用Youtube也极大地帮助了我的学习，拓展了我的视野。 比如我在刚学习某些知识的时候（比如神经网络如何训练、某某排序算法怎么实现），我会先在Youtube上查找一些教学视频（这些视频往往解释地相当清楚），再通过书本、作业等方式加深对知识的理解。 我也经常在Youtube上观看学术讲座视频以及课程，这些视频对我的帮助甚至大于我所上的本科课程，也极大地激发了我的兴趣（比如 <a href="https://www.youtube.com/channel/UCCb9_Kn8F_Opb3UCGm-lILQ", target="_blank"> Microsoft Research</a>, <a href="https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ", target="_blank">强化学习课程</a>, <a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw", target="_blank">数学趣味科普</a>等）。 总的来说，使用Youtube学习英语是一举两得。
+2. 使用Youtube. 我在大学期间真正感受到自己英语水平的提升，是大二暑假开始使用Youtube开始的（没错我在校内英语课上的收获很小，你是不是也一样:smirk:）。实际上使用Youtube也极大地帮助了我的学习，拓展了我的视野。 比如我在刚学习某些知识的时候（比如神经网络如何训练、某某排序算法怎么实现），我会先在Youtube上查找一些教学视频（这些视频往往解释地相当清楚），再通过书本、作业等方式加深对知识的理解。 我也经常在Youtube上观看学术讲座视频以及课程，这些视频对我的帮助甚至大于我所上的本科课程，也极大地激发了我的兴趣（比如 <a href="https://www.youtube.com/channel/UCCb9_Kn8F_Opb3UCGm-lILQ" target="_blank"> Microsoft Research</a>, <a href="https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ" target="_blank">强化学习课程</a>, <a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw" target="_blank">数学趣味科普</a>等）。 总的来说，使用Youtube学习英语是一举两得。
 
-	当然你还可以去了解 <a href="https://www.youtube.com/watch?v=-brF6SUXbns&t=325s", target="_blank"> 硅谷码农的生活 </a>,  <a href="https://www.youtube.com/watch?v=Qd2Kh80ZK6k&t=1034s", target="_blank"> Quant的工作和收入 </a> 以及观看各种英文的娱乐节目（EllenShow等）。 尽量不要开字幕，认真去听你会发现你听得懂的部分会越来越多。 这可比整天刷微博朋友圈更有意义，而且也算一种放松。不过需要注意的是Youtube（以及任何网络产品）都有推荐系统（推荐给你常看的视频类型），如果你总是看一些奇奇怪怪、肤浅的视频，那么Youtube在你手上就会变成一个时间黑洞，所以请在使用Youtube的时候自律一些，把它当成一个提升自己的工具。
+	当然你还可以去了解 <a href="https://www.youtube.com/watch?v=-brF6SUXbns&t=325s" target="_blank"> 硅谷码农的生活 </a>,  <a href="https://www.youtube.com/watch?v=Qd2Kh80ZK6k&t=1034s" target="_blank"> Quant的工作和收入 </a> 以及观看各种英文的娱乐节目（EllenShow等）。 尽量不要开字幕，认真去听你会发现你听得懂的部分会越来越多。 这可比整天刷微博朋友圈更有意义，而且也算一种放松。不过需要注意的是Youtube（以及任何网络产品）都有推荐系统（推荐给你常看的视频类型），如果你总是看一些奇奇怪怪、肤浅的视频，那么Youtube在你手上就会变成一个时间黑洞，所以请在使用Youtube的时候自律一些，把它当成一个提升自己的工具。
 
-3. 看一些学术相关的英文博客，比如<a href="https://terrytao.wordpress.com/career-advice/", target="_blank">陶哲轩的博客</a>（讲数学，也讲对科研工作者的建议），<a href="http://www.pgbovine.net/early-stage-PhD-advice.htm", target="_blank">UCSD的CS老师对研究生的建议</a>等等。 这些东西一方面能极大的提高自己的姿势水平，另一方面也可以作为Statement of Purpose的素材（比如关于学科的理解，以及博士生应该有什么品质）。另外建议大家（特别是低年级的学生）尽早开始学会翻国外教授的个人网站，在了解学术工作的同时提高自己的英文水平。
+3. 看一些学术相关的英文博客，比如<a href="https://terrytao.wordpress.com/career-advice/" target="_blank">陶哲轩的博客</a>（讲数学，也讲对科研工作者的建议），<a href="http://www.pgbovine.net/early-stage-PhD-advice.htm" target="_blank">UCSD的CS老师对研究生的建议</a>等等。 这些东西一方面能极大的提高自己的姿势水平，另一方面也可以作为Statement of Purpose的素材（比如关于学科的理解，以及博士生应该有什么品质）。另外建议大家（特别是低年级的学生）尽早开始学会翻国外教授的个人网站，在了解学术工作的同时提高自己的英文水平。
 
 以上的建议其实并没有要求你额外花时间学习英语，而是将你的学习、休闲放在了英语环境之中，希望有所帮助。
 
 ### GPA
 
-GPA衡量的是学生的学业水平，并不是最能体现research potential的指标。但确实，顶尖项目大多录取的是陆本强校的GPA前几名，比如<a href="https://www.zhihu.com/question/267392811/answer/471151963", target="_blank"> 顶尖Stat项目在陆本的录取情况</a>。 GPA的含金量与你所在学校是绑定在一起的，比如美本学校拿高GPA（比如4.0）的难度远低于陆本但说服力却比南科大高得多，又比如清北科的3.8基本就能吊打我们的3.9+（比如我），数学这边我认为南科大第一能对标北大第10已经是很乐观的估计了。
+GPA衡量的是学生的学业水平，并不是最能体现research potential的指标。但确实，顶尖项目大多录取的是陆本强校的GPA前几名，比如<a href="https://www.zhihu.com/question/267392811/answer/471151963" target="_blank"> 顶尖Stat项目在陆本的录取情况</a>。 GPA的含金量与你所在学校是绑定在一起的，比如美本学校拿高GPA（比如4.0）的难度远低于陆本但说服力却比南科大高得多，又比如清北科的3.8基本就能吊打我们的3.9+（比如我），数学这边我认为南科大第一能对标北大第10已经是很乐观的估计了。
 
 * 那GPA到底多重要？作为南科大的学生，我需要多高的GPA？
 
@@ -381,7 +383,7 @@ GPA衡量的是学生的学业水平，并不是最能体现research potential�
 
 ### <a name="Diversity"></a> Diversity与国籍
 
-Diversity：其实这是一个在录取中很重要性的指标，粗略的来说，来自于underrepresented group的申请者会得到一定的照顾，比如在STEM的申请中女生会有优势（还包括肤色，种族等）。 我曾在暑假向我的导师（她是招生委员会主席）求证，导师说确实是这样，不仅如此，她在给女生写推荐信的时候甚至会加强力度。 其实不仅仅是PhD的申请，在美国本科申请（美本申请中非裔女性在录取上的bar远低于亚裔男性）、Tech企业招聘以及教职申请中都会将diversity放在重要的位置（<a href="https://www.youtube.com/watch?v=lPtPG2lAmm4", target="_blank">diversity的价值</a>,<a href="https://www.youtube.com/watch?v=pizXzR7ZQ8Q&t=490s", target="_blank"> tech从业者不同的声音</a>)。 我鼓励热爱学术但对申请PhD有顾虑（有着“我是女生是不是不太适合读博”想法）的女生大胆地为申请努力，利用好这个优势，去实现自己的理想。
+Diversity：其实这是一个在录取中很重要性的指标，粗略的来说，来自于underrepresented group的申请者会得到一定的照顾，比如在STEM的申请中女生会有优势（还包括肤色，种族等）。 我曾在暑假向我的导师（她是招生委员会主席）求证，导师说确实是这样，不仅如此，她在给女生写推荐信的时候甚至会加强力度。 其实不仅仅是PhD的申请，在美国本科申请（美本申请中非裔女性在录取上的bar远低于亚裔男性）、Tech企业招聘以及教职申请中都会将diversity放在重要的位置（<a href="https://www.youtube.com/watch?v=lPtPG2lAmm4" target="_blank">diversity的价值</a>,<a href="https://www.youtube.com/watch?v=pizXzR7ZQ8Q&t=490s" target="_blank"> tech从业者不同的声音</a>)。 我鼓励热爱学术但对申请PhD有顾虑（有着“我是女生是不是不太适合读博”想法）的女生大胆地为申请努力，利用好这个优势，去实现自己的理想。
 
 国籍： 为什么国际生（特别是中国学生）申请美国的PhD难度高？ Funding是个很大的因素。 实际上，国际生的学费就是美国本土学生的2到3倍，而PhD的学费往往是又导师或者系负担 (在头两年养一个国际学生PhD学校可能要花7到10W刀；另外有些项目有对国际生比例的严格限制）；另外美国学生有大量申请奖学金（仅针对美国公民开放）的机会，这个奖学金往往不是作为零花钱，而是为部门或者导师减轻负担（你可以不做RA了因为有奖学金的支持），所以同等情况下招生官往往倾向于本土学生，本土学生的bar会比陆本要低很多。 作为中国学生，有一种办法可以增大录取几率，就是在申请的时候表示自己将自带funding（比如留基委的奖学金），具体的细节自行查找，这条tip只适用于少数人。
 
@@ -431,7 +433,7 @@ SOP里面很重要的一点，就是具体地强调自己的兴趣/ambition、�
 
 我在大一就下决心要申请PhD，主要原因是觉得自己喜欢有深度的想法，希望这辈子能够做一点Non-trivial的工作。 我进大学本来是想学理论物理（被《星际穿越》拉入的坑）或者计算机的，但是那个必修的物理实验真的把我劝退了（我体验不到一点乐趣:sleepy:），然后发现对数学课很感兴趣，也比较擅长，跟数学系的老师聊天也很愉悦（很幸运得到张振和陈懿茂老师的指点），就进了数学系，毕竟“学了数学就啥都能学”。 虽然进了数学系，我依旧乐于接触其他学科的知识，我渐渐的意识到自己可能会喜欢做一些需要较强数学背景的交叉性学科。 
 
-这里谈一下我为什么不走Pure Math方向。大多数喜欢数学的孩子应该是被纯数学的美所吸引，我也不例外。实际上我每学期都会上纯数的课，就是未来防止自己失去审美的能力，也防止自己变笨。 我不选择纯数方向有两个原因，一是我对自己的智商以及甘于坐冷板凳的心态并不自信（一方面我见过太多比我聪明努力几百倍的同学，另一方面选择纯数学基本意味着只有做研究一条路可走，<a href="https://www.zhihu.com/question/296083077/answer/498269984", target="_blank"> 而纯数的教职太难了</a>，大部分人最后还是转行）；第二个原因是我有很多的选择，我虽然喜欢纯数，但也十分乐于接触交叉学科，实际上在不断接触新领域的过程中，我对这些领域的兴趣越来越大，甚至超过了纯数。 兴趣不是一见钟情，而是逐渐培养的，随着我对一些领域认识的加深，我逐渐意识到在这些领域也有十分重要的问题需要解决。
+这里谈一下我为什么不走Pure Math方向。大多数喜欢数学的孩子应该是被纯数学的美所吸引，我也不例外。实际上我每学期都会上纯数的课，就是未来防止自己失去审美的能力，也防止自己变笨。 我不选择纯数方向有两个原因，一是我对自己的智商以及甘于坐冷板凳的心态并不自信（一方面我见过太多比我聪明努力几百倍的同学，另一方面选择纯数学基本意味着只有做研究一条路可走，<a href="https://www.zhihu.com/question/296083077/answer/498269984" target="_blank"> 而纯数的教职太难了</a>，大部分人最后还是转行）；第二个原因是我有很多的选择，我虽然喜欢纯数，但也十分乐于接触交叉学科，实际上在不断接触新领域的过程中，我对这些领域的兴趣越来越大，甚至超过了纯数。 兴趣不是一见钟情，而是逐渐培养的，随着我对一些领域认识的加深，我逐渐意识到在这些领域也有十分重要的问题需要解决。
 
 ##神经科学暑研
 
