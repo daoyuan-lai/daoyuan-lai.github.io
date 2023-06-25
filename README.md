@@ -1,4 +1,4 @@
-# Daoyaun-Lai.github.io
-Personal Website https://Daoyuan-Lai.github.io/
+# daoyuanlai.github.io
+Personal Website https://daoyuanlai.github.io/
 
 Adapted from https://pingchuan.ma/
